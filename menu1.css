@@ -52,7 +52,7 @@ body {
 }
 
 .card0 {
-    background: url("/IMG_20220625_165657390.jpg") center
+    background: url("IMG_20220625_165657390.jpg") center
      center no-repeat;
     background-size: 400px;
     margin-left: 22rem;
@@ -60,7 +60,7 @@ body {
 }
 
 .card0:hover {
-    background: url("/IMG_20220625_165658783.jpg") center no-repeat;
+    background: url("IMG_20220625_165658783.jpg") center no-repeat;
     background-size: 400px;
 }
 
